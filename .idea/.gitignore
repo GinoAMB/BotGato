@@ -2,6 +2,6 @@
 /shelf/
 /workspace.xml
 
-../TELEGRAMBOT/src/main/java/.env
+../src/main/java/es/codegym/telegrambot/.env
 
-../TELEGRAMBOT/target/classes/es/.env
+../target/classes/es/codegym/telegrambot/.env
