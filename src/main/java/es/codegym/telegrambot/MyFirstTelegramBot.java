@@ -11,8 +11,8 @@ import static es.codegym.telegrambot.TelegramBotContent.*;
 
 public class  MyFirstTelegramBot extends MultiSessionTelegramBot {
 
-    public static final String NAME = System.getenv("TELEGRAM_BOT_NAME");
-    public static final String TOKEN = System.getenv("TELEGRAM_BOT_TOKEN");
+    public static final String NAME = "";
+    public static final String TOKEN = "";
 
     public MyFirstTelegramBot() {
         super(NAME, TOKEN);
