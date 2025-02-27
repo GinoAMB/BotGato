@@ -2,5 +2,6 @@
 /shelf/
 /workspace.xml
 
-.env
+../src/main/java/.env
 
+../target/classes/es/.env
